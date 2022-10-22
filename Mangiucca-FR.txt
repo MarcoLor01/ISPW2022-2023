@@ -1,0 +1,3 @@
+The system shall provide a list of recent news about the state of the planet.
+The system shall provide a list where the user can add or remove the performed *activities and compare them with global statistics.
+The system shall provide a list of information about plants.

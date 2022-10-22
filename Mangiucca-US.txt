@@ -1,0 +1,3 @@
+As a guest, I want to read news about the state of the planet, so that I am always informed about what is happening in the world.
+As a user, I want to track my activities, so I can know how my actions impact the planet.
+As a user, I want to know information about plants, so I can learn how to take care of it.
